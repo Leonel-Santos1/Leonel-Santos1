@@ -1,8 +1,8 @@
 ### Olá a todos, meu nome é Leonel!👋
 
-- 🌱 Hoje estou aprendendo programação em C.
+- 🌱 Atualmente estou aprendendo programação em C.
 - 📚 Estudante do IFMA, cursando ensino médio técnico em informática.
-- 😎E este é meu perfil do github. ☜(ﾟヮﾟ☜)
+- 😎 E este é meu perfil do github. ☜(ﾟヮﾟ☜)
 
 <div align="center">
   <a href="https://github.com/Leonel-Santos1">
