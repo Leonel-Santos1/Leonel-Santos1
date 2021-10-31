@@ -2,7 +2,7 @@
 
 - 🌱 Hoje estou aprendendo programação em C.
 - 📚 Estudante do IFMA, cursando ensino médio técnico em informática.
-- 😎E esse é meu perfil do github. ☜(ﾟヮﾟ☜)
+- 😎E este é meu perfil do github. ☜(ﾟヮﾟ☜)
 
 <div align="center">
   <a href="https://github.com/Leonel-Santos1">
@@ -17,8 +17,8 @@
   
 <div>
   
-  <a href="discord.com/channels/@SkyThunder" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonel.s@acad.ifma.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:franciscoleonelfds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://steamcommunity.com/profiles/76561199137252273/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
 </div>
