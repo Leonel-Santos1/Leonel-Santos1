@@ -1,7 +1,7 @@
 ### Olá a todos, meu nome é Leonel!👋
 
 - 🌱 Aprendendo Java.
-- 📚 Estudante do IFMA, cursando o 3º ano em informática.
+- 📚 Estudou no Instituto Federal do Maranhão, no curso técnico informática integrado ao ensino médio.
 - 😎 E este é meu perfil do github. ☜(ﾟヮﾟ☜)
 
 <div align="center">
